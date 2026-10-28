@@ -15,7 +15,7 @@ There are 2 things:
 
 This project is designed to work on Cloudflare Pages.
 
-Refer to [setup guide](./setup.md) for the setup instruction.
+Refer to [setup guide](./setup.md) for the instruction.
 
 
 
